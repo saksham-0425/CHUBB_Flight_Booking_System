@@ -140,7 +140,7 @@ target/site/jacoco/index.html
 ### How to run:-
 Clone Repository 
 ```
-git clone <repo-url>
+git clone https://github.com/saksham-0425/CHUBB_Flight_Booking_System
 ```
 Import STS/Eclipse as Maven Project
 Run Application
